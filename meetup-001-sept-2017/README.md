@@ -1,6 +1,6 @@
 # First Functional Meetup in Montpellier!
 
-[Meetup #1](https://www.meetup.com/fr-FR/Functional-Programming-Montpellier/events/242262544/) (Septempbre 2017)
+Lien de l'évènement : [Meetup](https://www.meetup.com/fr-FR/Functional-Programming-Montpellier/events/242262544/) (Septembre 2017)
 
 ## La programmation fonctionnelle expliquée à ma grand-mère 
 
