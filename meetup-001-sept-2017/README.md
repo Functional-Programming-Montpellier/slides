@@ -10,9 +10,9 @@ vous aimez les lambdas et vous avez le sentiment que l'immutabilité est une bon
 chose. Je vais vous présenter quelques principes de la programmation fonctionnelle sans 
 complexité et vous pourrez les appliquer directement dans votre navigateur.
 
- * Slides (pdf) : TODO
- * Démo (tech.io) : https://tech.io/playgrounds/6247/functional-programming-explained-to-my-grandma
- * Vidéo : __Bientôt disponible__
+ * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/blob/master/meetup-001-sept-2017/Functional%20Programming%20Explained%20to%20my%20grandma.pdf)
+ * Démo : https://tech.io/playgrounds/6247/functional-programming-explained-to-my-grandma
+ * Vidéo : _Bientôt disponible_
 
 **Speaker :** [Charlotte Cavalier](https://twitter.com/cavalierch)
 
@@ -29,9 +29,9 @@ comme un langage élitiste. Je vous présenterais ma vision du langage et de son
 apprendre, et particulièrement adapté au développement d'APIs et de systèmes distribués 
 / bigdata.
 
- * Slides : http://bit.ly/meetup-fp-scala
- * Slides (pdf) : TODO
- * Vidéo : __Bientôt disponible__
+ * Slides : [Google Slide](http://bit.ly/meetup-fp-scala)
+ * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/blob/master/meetup-001-sept-2017/Voyage%20en%20terres%20inconnues%20-%20S01E01%20-%20Scala.pdf)
+ * Vidéo : _Bientôt disponible_
 
 **Speaker :** [Julien Lafont](http://twitter.com/julien_lafont)
 
