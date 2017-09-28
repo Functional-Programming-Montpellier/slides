@@ -12,7 +12,7 @@ complexité et vous pourrez les appliquer directement dans votre navigateur.
 
  * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-001-sept-2017/Functional%20Programming%20Explained%20to%20my%20grandma.pdf)
  * Démo : https://tech.io/playgrounds/6247/functional-programming-explained-to-my-grandma
- * Vidéo : _Bientôt disponible_
+ * Vidéo : https://youtu.be/cAJlv_eQkMw
 
 **Speaker :** [Charlotte Cavalier](https://twitter.com/cavalierch)
 
@@ -31,7 +31,7 @@ apprendre, et particulièrement adapté au développement d'APIs et de systèmes
 
  * Slides : [Google Slide](http://bit.ly/meetup-fp-scala)
  * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-001-sept-2017/Voyage%20en%20terres%20inconnues%20-%20S01E01%20-%20Scala.pdf)
- * Vidéo : _Bientôt disponible_
+ * Vidéo : https://youtu.be/LZ7PHbZXBqE
 
 **Speaker :** [Julien Lafont](http://twitter.com/julien_lafont)
 
