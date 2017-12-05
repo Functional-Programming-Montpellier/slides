@@ -11,7 +11,7 @@ mes premières petites déconvenues, mais aussi ce qui m’a particulièrement p
 hésiteraient encore à franchir le pas.
 
  * Slides : [Google Slide](https://docs.google.com/presentation/d/1SxvOP6JmNw7N9U2xuJGvaGVOZUDkw02pKXL8y_B2LyA/edit?usp=sharing)
- * Slides : [PDF](TODO)
+ * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-002-oct-2017/Apprendre%20le%20Scala%20pour%20son%20premier%20emploi.pdf)
 
 **Speaker :** Mélanie Lavabre
 
@@ -29,7 +29,7 @@ deviendra vite votre meilleur atout. J’aurai donc le plaisir de vous partager 
 à travers 2 exemples concrets d’application.
 
  * Slides : [Google Slide](https://docs.google.com/presentation/d/128XGMyQPqhm9j0fwe9kxSdGppoqc7d15VpCo79dwIg8/edit?usp=sharing)
- * Slides : [PDF](TODO)
+ * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-002-oct-2017/Voyage%20en%20terre%20inconnue%20-%20Elm.pdf)
  * Vidéo : *En raison d'un problème de captation vidéo, la vidéo de cette présentation n'est pas disponible*
  
 **Speaker :** [Romain Endelin](http://twitter.com/julien_lafont)
