@@ -10,7 +10,7 @@ Mais la programmation fonctionnelle ça n'est pas que ça, d'autres formidables 
 Dans cette présentation je vous ferais découvrir les notions d'Algèbres et d'Interpréteurs, et comment les 
 utiliser dans la vie de tous les jours.
 
- * Slides : [PDF](TODO)
+ * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-003-nov-2017/Un%20DSL%20pour%20ma%20base%20de%20donn%C3%A9es.pdf)
 
 **Speaker :** [Romain lecomte](https://twitter.com/lebalifant)
 
@@ -23,7 +23,7 @@ Issu de la recherche, Haskell est un langage purement fonctionnel qui allie une 
 
 Dans cette présentation, je vous montrerai comment un programme Haskell est construit et comment les effets de bord ont été réintroduits dans le langage sans compromettre sa pureté au moyen d'un obscure concept mathématique: les monades.
 
- * Slides : [PDF](TODO)
+ * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-003-nov-2017/Voyage%20en%20terre%20inconnue%203%20:%20Haskell.pdf)
 
 **Speaker :** [Mikael Bouillot](https://twitter.com/pokazef)
 
