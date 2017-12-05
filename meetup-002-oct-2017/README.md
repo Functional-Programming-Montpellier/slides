@@ -32,6 +32,6 @@ deviendra vite votre meilleur atout. J’aurai donc le plaisir de vous partager 
  * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-002-oct-2017/Voyage%20en%20terre%20inconnue%20-%20Elm.pdf)
  * Vidéo : *En raison d'un problème de captation vidéo, la vidéo de cette présentation n'est pas disponible*
  
-**Speaker :** [Romain Endelin](http://twitter.com/julien_lafont)
+**Speaker :** [Romain Endelin](http://twitter.com/RomainEndelin)
 
 > En journée, je suis un développeur Ruby on Rails chez Zendesk. De nuit, j’enfile mon costume de “Language Nerd”, et je m’amuse à découvrir des technologies plus exotiques.
