@@ -12,7 +12,10 @@ hésiteraient encore à franchir le pas.
 
  * Slides : [Google Slide](https://docs.google.com/presentation/d/1SxvOP6JmNw7N9U2xuJGvaGVOZUDkw02pKXL8y_B2LyA/edit?usp=sharing)
  * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-002-oct-2017/Apprendre%20le%20Scala%20pour%20son%20premier%20emploi.pdf)
-
+ * Vidéo : https://youtu.be/jQPGpUQlhHA
+ 
+ [![Présentation langage Scala](https://img.youtube.com/vi/jQPGpUQlhHA/0.jpg)](https://www.youtube.com/watch?v=jQPGpUQlhHA)
+ 
 **Speaker :** Mélanie Lavabre
 
 > Mélanie, née dans l'air pur Aveyronnais, a eu une croissance remarquable à base de tartines de Roquefort. 
