@@ -11,7 +11,10 @@ Dans cette présentation je vous ferais découvrir les notions d'Algèbres et d'
 utiliser dans la vie de tous les jours.
 
  * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-003-nov-2017/Un%20DSL%20pour%20ma%20base%20de%20donn%C3%A9es.pdf)
-
+ * Vidéo : https://youtu.be/GIteRZX3mvE
+ 
+ [![Et pour quelques monades de plus](https://img.youtube.com/vi/GIteRZX3mvE/0.jpg)](https://www.youtube.com/watch?v=GIteRZX3mvE)
+ 
 **Speaker :** [Romain lecomte](https://twitter.com/lebalifant)
 
 > Développeur passionné, Breton de naissance et Montpelliérain d'adoption.
@@ -24,7 +27,10 @@ Issu de la recherche, Haskell est un langage purement fonctionnel qui allie une 
 Dans cette présentation, je vous montrerai comment un programme Haskell est construit et comment les effets de bord ont été réintroduits dans le langage sans compromettre sa pureté au moyen d'un obscure concept mathématique: les monades.
 
  * Slides : [PDF](https://github.com/Functional-Programming-Montpellier/slides/raw/master/meetup-003-nov-2017/Voyage%20en%20terre%20inconnue%203%20:%20Haskell.pdf)
-
+ * Vidéo : https://youtu.be/jfm3FjhUylg
+ 
+ [![Voyage en terre inconnue Haskell](https://img.youtube.com/vi/jfm3FjhUylg/0.jpg)](https://www.youtube.com/watch?v=jfm3FjhUylg)
+ 
 **Speaker :** [Mikael Bouillot](https://twitter.com/pokazef)
 
 > Administrateur de systèmes Linux depuis une vingtaine d'années, j'ai récemment pris un peu de recul pour travailler sur les sujets qui me tiennent à coeur: 
