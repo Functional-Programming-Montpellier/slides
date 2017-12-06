@@ -22,6 +22,21 @@ hésiteraient encore à franchir le pas.
 > Elle est allée faire un tour du côté de Toulouse pour des études à l'INSA avant de trouver son premier emploi à 
 > Tabmo Montpellier parce que la plage y est quand même moins loin.
 
+## Akka-Stream : Retour d'expérience contributeur Alpakka
+
+Alpakka is a community project providing akka stream connectors to different backends (mqtt, cassandra, hbase ...). I will show how it is easy to implement back pressured connector for Akka Stream to read and write from/to Apache Geode.
+
+I'll try to encourage you to contribute to Alpakka project as it is an easy step and a really pleasant experience - thanks to reviewers.
+
+* Vidéo : https://youtu.be/qX4C0DHvGlk
+ 
+ [![Akka Alpakka](https://img.youtube.com/vi/qX4C0DHvGlk/0.jpg)](https://www.youtube.com/watch?v=qX4C0DHvGlk)
+ 
+
+**Speaker :** [Olivier Nouguier](https://twitter.com/oNouguier)
+
+> Data Engineer at tabmo.io. JUG Leader in Montpellier. Father
+
 ## Voyage en terre inconnue, épisode 2 : ELM
 
 Elm est un langage fonctionnel destiné au front-end web. En d’autres termes, prenez Haskell, simplifiez-le, et mixez-le avec 
